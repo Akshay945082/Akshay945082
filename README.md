@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data science enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="<a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akshay945082&label=Profile%20views&color=0e75b6&style=flat" alt="akshay945082" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay945082&label=Profile%20views&color=0e75b6&style=flat" alt="akshay945082" /> </p>
 
 - 🌱 I’m currently learning **Generative AI**
 
